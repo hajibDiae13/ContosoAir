@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/HAJIBDIAE/partsLimited/_apis/build/status/hajibDiae13.ContosoAir?branchName=master)](https://dev.azure.com/HAJIBDIAE/partsLimited/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
